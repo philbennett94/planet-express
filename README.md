@@ -1,5 +1,6 @@
 # planet-express
 A set of packaged tools for working with Cosmos DB resources (TUI application).
+*This project is still under development. Please consider this a fisrt draft made public for collaboration.*
 
 **Description**
 
