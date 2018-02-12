@@ -1,5 +1,5 @@
 # planet-express
-A set of packaged tools for working with Cosmos DB resources.
+A set of packaged tools for working with Cosmos DB resources (TUI application).
 
 **Description**
 
@@ -14,3 +14,19 @@ Please review the following articles for help with requirements:
 - `AAD application`: https://docs.microsoft.com/en-us/azure/active-directory/active-directory-app-registration
 
 **What does it do?**
+
+![alt text](https://github.com/philbennett94/planet-express/blob/master/pics/pe4.PNG)
+
+**Planet Express in action**
+
+1. Below is a screenshot of the landing output...
+
+![alt text](https://github.com/philbennett94/planet-express/blob/master/pics/pe1.PNG)
+
+2. After authenticating, you can choose operations by entering a number that corresponds with a menu item...
+
+![alt text](https://github.com/philbennett94/planet-express/blob/master/pics/pe2.PNG)
+
+3. Deleting a Cosmos DB account and listing resources after removing the resource...
+
+![alt text](https://github.com/philbennett94/planet-express/blob/master/pics/pe3.PNG)
