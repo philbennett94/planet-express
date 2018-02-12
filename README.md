@@ -3,6 +3,8 @@ A set of packaged tools for working with Cosmos DB resources (TUI application).
 
 *This project is still under development. Please consider this a fisrt draft made public for collaboration.*
 
+Art credit: http://www.gotfuturama.com/Multimedia/AsciiArt/PESebastian.shtml
+
 **Description**
 
 This project aims to automate common tasks performed with Azure Cosmos DB to help new users learn about the NoSQL cloud database offering and speed up testing/environment configuration processes. Please leave comments, concerns, and suggestions for new features - your feedback is appreciated.
